@@ -125,7 +125,7 @@ TODO: Links to at least 10 of your group's GitLab issues, and their associated M
 [test-8]: #
 [test-9]: #
 [test-10]: #
-[test-11]: https://course-gitlab.tuni.fi/webdev1-2020-2021/webdev1-group-73/-/blob/master/test/own/product.test.js
+[test-11]: https://github.com/shamshadkhan/web_shop/tree/main/test/own/product.test.js
 
 ## Security concerns
 
