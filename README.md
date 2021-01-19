@@ -115,6 +115,16 @@ TODO: Links to at least 10 of your group's GitLab issues, and their associated M
 
 [Mocha test and test File associated with above tests][test-11]
 
+[test-1]: #
+[test-2]: #
+[test-3]: #
+[test-4]: #
+[test-5]: #
+[test-6]: #
+[test-7]: #
+[test-8]: #
+[test-9]: #
+[test-10]: #
 [test-11]: https://course-gitlab.tuni.fi/webdev1-2020-2021/webdev1-group-73/-/blob/master/test/own/product.test.js
 
 ## Security concerns
