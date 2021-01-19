@@ -115,16 +115,6 @@ TODO: Links to at least 10 of your group's GitLab issues, and their associated M
 
 [Mocha test and test File associated with above tests][test-11]
 
-[test-1]: https://course-gitlab.tuni.fi/webdev1-2020-2021/webdev1-group-73/-/issues/2
-[test-2]: https://course-gitlab.tuni.fi/webdev1-2020-2021/webdev1-group-73/-/issues/3
-[test-3]: https://course-gitlab.tuni.fi/webdev1-2020-2021/webdev1-group-73/-/issues/4
-[test-4]: https://course-gitlab.tuni.fi/webdev1-2020-2021/webdev1-group-73/-/issues/5
-[test-5]: https://course-gitlab.tuni.fi/webdev1-2020-2021/webdev1-group-73/-/issues/6
-[test-6]: https://course-gitlab.tuni.fi/webdev1-2020-2021/webdev1-group-73/-/issues/7
-[test-7]: https://course-gitlab.tuni.fi/webdev1-2020-2021/webdev1-group-73/-/issues/8
-[test-8]: https://course-gitlab.tuni.fi/webdev1-2020-2021/webdev1-group-73/-/issues/9
-[test-9]: https://course-gitlab.tuni.fi/webdev1-2020-2021/webdev1-group-73/-/issues/10
-[test-10]: https://course-gitlab.tuni.fi/webdev1-2020-2021/webdev1-group-73/-/issues/11
 [test-11]: https://course-gitlab.tuni.fi/webdev1-2020-2021/webdev1-group-73/-/blob/master/test/own/product.test.js
 
 ## Security concerns
