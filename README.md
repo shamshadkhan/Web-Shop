@@ -1,16 +1,22 @@
 # Group 
 
-Member1:  Shamshad Akther, shamshad.akther@tuni.fi, H292957, 
+Member1:  Shamshad Akther
 resposible for: Implementing and testing controller for product, routes for product, models for product, view for product, add to cart, increment item in cart, decrement item in cart, shopping cart list,own test for product [models, controller, routes] and order [controller] for coverage, some fix of eslint and jsdoc, fix new test for User controller, Product Controller, simple frontend design and css product, cart and order
 
-Member2:  Thuy Phuong Nhi Tran, thuyphuongnhi.tran@tuni.fi, H291937, 
+Member2: 
 resposible for: Routes for order, model for order and user, view for order, place a new order, order frontend, fix error eslint, jsdoc and SonarQube, sort products by name and price
 
+# WebDev1 Demo URL
 
+https://webdevnodeproject.herokuapp.com/
 
 # WebDev1 coursework assignment
 
 A web shop with vanilla HTML, CSS.
+Database: MongoDB
+Server: Heroku
+Architechture: MVC
+Test: Mocha, Static Analysis, Coverage
 
 
 ### The project structure
