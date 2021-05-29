@@ -6,11 +6,11 @@ resposible for: Implementing and testing controller for product, routes for prod
 Member2: 
 resposible for: Routes for order, model for order and user, view for order, place a new order, order frontend, fix error eslint, jsdoc and SonarQube, sort products by name and price
 
-# WebDev1 Demo URL
+# WebShop Demo URL
 
 https://webdevnodeproject.herokuapp.com/
 
-# WebDev1 coursework assignment
+# WebShop
 
 A web shop with vanilla HTML, CSS.
 Database: MongoDB
